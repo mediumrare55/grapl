@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
+
 h1{
     font-size: 24px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -49,6 +53,7 @@ h1{
     height: 100%;
     outline: 2px solid #000;
     border-radius: 12px;
+    z-index:2;
 }
 @media screen and (max-width:574px) {
     .news1{
@@ -65,6 +70,7 @@ h1{
     height: 100%;
     outline: 2px solid #000;
     border-radius: 12px;
+    z-index:2;
 }
 @media screen and (max-width:574px) {
     .news2{
@@ -80,6 +86,7 @@ h1{
     height: 100%;
     outline: 2px solid #000;
     border-radius: 12px;
+    z-index:2;
 
 }
 @media screen and (max-width:574px) {
@@ -91,9 +98,8 @@ h1{
 }
 
 .map{
-    margin-top: 10%;
+    margin-top: 20%;
 }
-
 
 .zapis{
     margin-top: 10%;
