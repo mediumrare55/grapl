@@ -75,6 +75,8 @@ h1{
 @media screen and (max-width:574px) {
     .news2{
         width: 30%;
+        margin-top: 10%;
+        width: 30%;
        
     
     }
@@ -119,7 +121,7 @@ h1{
     transition: 0.5s;
     width: 25%;
     font-size: 18px;
-    margin-bottom: 5%;
+    
 }
 
 @media screen and (max-width:574px) {
